@@ -235,10 +235,6 @@
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initAutocomplete&libraries=places&v=weekly"
       defer
     ></script>
-<!--     <script -->
-<!--       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCPKcuXjbbCFoXgBHXvArbDGL04ednhCI&callback=initAutocomplete&libraries=places&v=weekly" -->
-<!--       defer -->
-<!--     ></script> -->
     <!-- content -->
     <%@include file="Footer.jsp" %>
     <script
